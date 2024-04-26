@@ -25,18 +25,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/AbhinayNegi/Social-links-profile-challenge/blob/main/screenshot/Screenshot%201.png)
 
-![](https://github.com/AbhinayNegi/blog-preview-card/blob/main/screenshot/Screenshot.png)
+![](https://github.com/AbhinayNegi/Social-links-profile-challenge/blob/main/screenshot/Screenshot%202.png)
 
-![](https://github.com/AbhinayNegi/Blog-preview-card/blob/main/screenshot/Screenshot%202.png)
-
-![](https://github.com/AbhinayNegi/Blog-preview-card/blob/main/screenshot/Screenshot%203.png)
+![](https://github.com/AbhinayNegi/Social-links-profile-challenge/blob/main/screenshot/Screenshot%203.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://abhinaynegi.github.io/Social-links-profile-challenge/)
 
 ## My process
 
